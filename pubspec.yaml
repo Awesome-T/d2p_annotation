@@ -4,12 +4,12 @@ description: >-
   This package does nothing without d2p_gen, 
   which creates proto files for GTA based on 
   dart classes.
-
+  
 homepage: https://github.com/Awesome-T/d2p_annotation
 repository: https://github.com/Awesome-T/d2p_annotation
 issue_tracker: https://github.com/Awesome-T/d2p_annotation/issues
 documentation: https://github.com/Awesome-T/d2p_annotation
-publish_to: none
+
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
