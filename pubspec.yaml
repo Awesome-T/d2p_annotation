@@ -13,8 +13,3 @@ documentation: https://github.com/Awesome-T/d2p_annotation
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
-topics:
-  - network
-  - proto
-  - build_runner
-  - code_gen
