@@ -1,6 +1,6 @@
 /// Represents options for protocol
 /// buffer code generation.
-class ProtoGen {
+base class ProtoGen {
   // The path to the proto files.
   // final String prtotPath;
   // Whether to generate mappers for DTOs.
